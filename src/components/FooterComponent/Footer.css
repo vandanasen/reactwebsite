@@ -1,0 +1,13 @@
+#footercontainer{
+    background: grey;
+    height:200px;
+    width:1200px;
+    margin-top:10px;
+}
+.socialicon{
+    margin-top: 140px;
+    margin-left: 1020px;
+    width:20px;
+    height:20px;
+    background: grey;
+}
