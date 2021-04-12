@@ -1,17 +1,29 @@
 {
   "files": {
-    "main.js": "/reactwebsite/static/js/main.80c32865.chunk.js",
-    "main.js.map": "/reactwebsite/static/js/main.80c32865.chunk.js.map",
+    "main.css": "/reactwebsite/static/css/main.f72c5b7c.chunk.css",
+    "main.js": "/reactwebsite/static/js/main.26189291.chunk.js",
+    "main.js.map": "/reactwebsite/static/js/main.26189291.chunk.js.map",
     "runtime-main.js": "/reactwebsite/static/js/runtime-main.b8e37321.js",
     "runtime-main.js.map": "/reactwebsite/static/js/runtime-main.b8e37321.js.map",
-    "static/js/2.b4918dcd.chunk.js": "/reactwebsite/static/js/2.b4918dcd.chunk.js",
-    "static/js/2.b4918dcd.chunk.js.map": "/reactwebsite/static/js/2.b4918dcd.chunk.js.map",
+    "static/js/2.c264a649.chunk.js": "/reactwebsite/static/js/2.c264a649.chunk.js",
+    "static/js/2.c264a649.chunk.js.map": "/reactwebsite/static/js/2.c264a649.chunk.js.map",
     "index.html": "/reactwebsite/index.html",
-    "static/js/2.b4918dcd.chunk.js.LICENSE.txt": "/reactwebsite/static/js/2.b4918dcd.chunk.js.LICENSE.txt"
+    "static/css/main.f72c5b7c.chunk.css.map": "/reactwebsite/static/css/main.f72c5b7c.chunk.css.map",
+    "static/js/2.c264a649.chunk.js.LICENSE.txt": "/reactwebsite/static/js/2.c264a649.chunk.js.LICENSE.txt",
+    "static/media/About_me_page.cdbe95ff.jpg": "/reactwebsite/static/media/About_me_page.cdbe95ff.jpg",
+    "static/media/Blog_page.c7009703.png": "/reactwebsite/static/media/Blog_page.c7009703.png",
+    "static/media/Contact_me_page.3912569e.jpg": "/reactwebsite/static/media/Contact_me_page.3912569e.jpg",
+    "static/media/Home_page.a405ff0b.jpg": "/reactwebsite/static/media/Home_page.a405ff0b.jpg",
+    "static/media/instagram.0fde2e52.png": "/reactwebsite/static/media/instagram.0fde2e52.png",
+    "static/media/pic1.a2d2b704.png": "/reactwebsite/static/media/pic1.a2d2b704.png",
+    "static/media/pic2.a258cda5.jpg": "/reactwebsite/static/media/pic2.a258cda5.jpg",
+    "static/media/pic3.ec6ae708.jpg": "/reactwebsite/static/media/pic3.ec6ae708.jpg",
+    "static/media/pic4.0f30a731.jpg": "/reactwebsite/static/media/pic4.0f30a731.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.b8e37321.js",
-    "static/js/2.b4918dcd.chunk.js",
-    "static/js/main.80c32865.chunk.js"
+    "static/js/2.c264a649.chunk.js",
+    "static/css/main.f72c5b7c.chunk.css",
+    "static/js/main.26189291.chunk.js"
   ]
 }
