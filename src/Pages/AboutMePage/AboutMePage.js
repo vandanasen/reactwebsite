@@ -1,6 +1,5 @@
 import React from 'react';
-import "./AboutMePage.css";
-import PageHeader from "../../components/PageHeaderComponent/PageHeader";
+import PageHeader from "../../Components/PageHeaderComponent/PageHeader";
 import PageImage from "./../../Assets/Page_Header_Images/About_me_page.jpg";
 
 const pageHeaderInfo = {
@@ -10,11 +9,9 @@ const pageHeaderInfo = {
 
 class AboutMePage extends React.Component{
     render() {
-     return(  
-         <>
-        <PageHeader info={pageHeaderInfo} /> 
+     return(   
         <div className="ui container">
-         
+         <PageHeader info={pageHeaderInfo} />
             <h2>About Me</h2>
             <h1>Bona autem corporis huic sunt, quod posterius posui, similiora.</h1>
 
@@ -26,22 +23,6 @@ class AboutMePage extends React.Component{
 
 
         </div>
-
-
-    <div className="ui container">
-       <div className="ui equal width center aligned padded grid" id="grid2">
-           <div class="row">
-                <div class=" blue column" >
-                   <p>col1</p>
-                </div>
-                <div class="column">
-                 <p>col2</p>
-                </div>
-            </div>
-        </div>   
-    </div>
-        
-        </>
      );
     }
 }

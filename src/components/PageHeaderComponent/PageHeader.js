@@ -11,7 +11,7 @@ class PageHeader extends Component {
       return (
         <>
         
-        <div className="ui center aligned container" id="pageHeaderContainer">       
+        <div className="ui container" id="pageHeaderContainer">       
             <img className="pageHeaderOverlay" src={this.props.info.pageHeaderImage} alt={"logo"}/>
             <div className="pageHeaderTitle" > 
              {this.props.info.pageHeaderTitle}
