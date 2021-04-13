@@ -1,5 +1,5 @@
 import React from 'react';
-import PageHeader from "../../Components/PageHeaderComponent/PageHeader";
+import PageHeader from "../../components/PageHeaderComponent/PageHeader";
 import PageImage from "./../../Assets/Page_Header_Images/Blog_page.png";
 
 const pageHeaderInfo = {
