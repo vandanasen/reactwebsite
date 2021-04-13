@@ -1,3 +1,6 @@
-.headercontainer{
-    max-width:1200;
-}
+.ui.menu{
+   max-width:1200px;
+   height:75px;
+   border:none;
+   }
+  

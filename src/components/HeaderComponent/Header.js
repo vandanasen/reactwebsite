@@ -5,18 +5,17 @@ class Header extends React.Component{
     render() {
      return(   
     <header>
-    <div className = "ui container" id="headercontainer">
+   <div className="ui center aligned container">
+   <div className="ui four item borderless center aligned menu">
     
-                 <div class="ui grey inverted segment">
-  <div class="ui orange four item inverted secondary menu">
-    <Link className="orange item" to="/">Home</Link>
-    <Link className="orange item" to="/About">About Me</Link>
-    <Link className="orange item" to="/Blog">Blog</Link>
+    <Link className="item" to="/">Home</Link>
+    <Link className="item" to="/About">About Me</Link>
+    <Link className="item" to="/Blog">Blog</Link>
     <Link className="item" to="/ContactMe">Contact Me</Link>
-    
-  </div>
-</div>
     </div>
+   </div>
+       
+    
                  
                  
      </header>
